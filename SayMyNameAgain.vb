@@ -1,6 +1,12 @@
 ﻿Option Explicit On
 Option Strict On
 
+'Dylan Nelson
+'RCET0265
+'Spring 2021
+'Say My Name Again
+'https://github.com/dylannelson58/SayMyNameAgain1
+
 Module SayMyNameAgain
 
     Sub Main()
